@@ -1,0 +1,2 @@
+# Alosal-OSM
+no
